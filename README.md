@@ -38,4 +38,15 @@ Make sure you have **Node.js** and **npm** installed on your system. You can dow
 4. **Editing the Project**
 
 - Open index.html and make changes. The browser will automatically refresh with your updates
-5. change
+5. git branch stuff
+cits@CITSs-MBP-6 Paypal_Clone % git branch
+* main
+cits@CITSs-MBP-6 Paypal_Clone % git checkout Paypal_Clone
+cits@CITSs-MBP-6 Paypal_Clone % git branch
+* main
+cits@CITSs-MBP-6 Paypal_Clone % git branch task1
+cits@CITSs-MBP-6 Paypal_Clone % git branch
+* main
+  task1
+cits@CITSs-MBP-6 Paypal_Clone % git checkout task1
+Switched to branch 'task1'
